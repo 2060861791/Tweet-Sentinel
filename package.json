@@ -1,0 +1,10 @@
+{
+  "type": "module",
+  "dependencies": {
+    "chalk": "^5.4.1",
+    "dotenv": "^17.2.0",
+    "node-fetch": "^3.3.2",
+    "puppeteer": "^24.15.0",
+    "strip-ansi": "^7.1.0"
+  }
+}
